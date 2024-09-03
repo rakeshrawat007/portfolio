@@ -1,0 +1,1 @@
+{"hosting":{"public":"build/web","site":"portfolio-5b725-e3f2e","ignore":["firebase.json","**/.*","**/node_modules/**"]},"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"portfolio-5b725","configurations":{"web":"1:590381925396:web:abbbe02cfd25f04b5e9301"}}}}}}
